@@ -1,3 +1,6 @@
+# An Introduction to Statistical Learning with Applications in R
+# This source is originally from https://github.com/rghan/ISLR.  
+# Chapter 3 Lab: Linear Regression
 
 #install.packages("ISLR")
 
