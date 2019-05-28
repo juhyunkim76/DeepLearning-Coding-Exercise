@@ -1,3 +1,5 @@
+# This source is originally from https://github.com/d2l-ai/d2l-en
+
 from mxnet import autograd, nd
 
 num_inputs = 2
