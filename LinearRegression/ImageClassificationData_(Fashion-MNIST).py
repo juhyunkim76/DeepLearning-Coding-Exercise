@@ -1,3 +1,5 @@
+# This source is originally from https://github.com/d2l-ai/d2l-en
+
 import sys
 sys.path.insert(0, '..')
 
